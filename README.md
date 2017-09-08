@@ -1,5 +1,7 @@
 # S2I: NodeJS / NGINX
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jshmrtn/s2i-nodejs-nginx.svg)](https://greenkeeper.io/)
+
 **This project is under heavy development and not yet ready for production.**
 
 ## Releases / Versions
